@@ -1,0 +1,11 @@
+name: nditech-org
+recipe: drupal7
+config:
+  webroot: web
+  php: '5.6'
+services:
+  database:
+    creds:
+      user: nditech
+      password: nditech
+      database: nditech

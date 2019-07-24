@@ -1,0 +1,4 @@
+# Ignore configuration files that may contain sensitive information.
+web/sites/default/settings.local.php
+web/sites/example.sites.php
+.vscode
